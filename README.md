@@ -27,7 +27,7 @@ oscServerAddress = /brain
 ```
 
 ### 2: 実行
-以下のコマンドを
+以下のコマンドを実行してiPadから送られてくるデータを待ち受けます。
 
 ```.sh
 python main.py
