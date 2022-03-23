@@ -7,6 +7,14 @@ Pythonの実行環境を用意します。Python3.8.6で動作テストしてお
 関連するライブラリをインストールします。
 
 ```.sh
+git clone git@github.com:viestyle-dev/EEGServer.git
+
+cd EEGViewer
+
+python3 -m venv .venv
+
+source .venv/bin/activate
+
 pip install -r requirements.txt
 ```
 
