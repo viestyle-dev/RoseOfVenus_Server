@@ -3,6 +3,5 @@ data
 mat2py
 mat2py\data
 .DS_Store
-models/
 __pycache__
 *.pyc
